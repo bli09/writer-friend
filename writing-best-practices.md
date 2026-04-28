@@ -65,7 +65,7 @@
 
 ## Format-Specific Notes
 
-**Emails:** Subject line is everything. Body should be scannable — short paragraphs, one clear ask, specific CTA.
+**Emails:** Subject line is everything. Body should be scannable — short paragraphs, one clear ask, specific CTA. For professional and work emails, use collaborative framing over directive framing. Prefer "we should", "I'd love to", "let's" over "we need to", "you must", "this requires". Assertive and direct is the goal; aggressive or accusatory is not.
 
 **Reports / White papers:** Executive summary first. Use headers generously. Readers will skip around — make every section self-contained.
 
