@@ -86,5 +86,8 @@
 **Don't use passive voice"** Don’t use the passive voice: Instead of "The decision was made to..." insist on "We decided to..."
 
 # Do NOT use these words
-Delve,  Tapestry,  Labyrinth, Testament
-Beacon, Unleash, Elevate, Harness, Empower Synergy, Pivotal, Robust, Seamless, Innovative, Cutting-edge, Transformative, Comprehensive, Dynamic, Versatile, Nuanced
+Delve, Tapestry, Labyrinth, Testament
+Beacon, Unleash, Elevate, Harness, Empower, Synergy, Pivotal, Robust, Seamless, Innovative, Cutting-edge, Transformative, Comprehensive, Dynamic, Versatile, Nuanced
+
+# Do NOT use these phrases
+"This means that…", "As a result…", "One key benefit is…", "Another important factor is…", "This highlights the importance of…", "It's important to note", "It's worth mentioning", "Generally speaking", "In many cases", "To some extent"
