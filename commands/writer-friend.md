@@ -36,3 +36,22 @@ Present the full draft without commentary. After the draft, add a brief section 
 Ask: "What would you like to change, punch up, or adjust?"
 
 Iterate until the user is satisfied.
+
+---
+
+## Step 5 — Log outcomes
+
+After the user is happy with the draft, prompt them:
+
+"Once you've sent this, come back and tell me how it landed. I'll log it to your feedback log so your best practices improve over time."
+
+When the user returns with an outcome, append an entry to `~/.claude/feedback-log.md` in this format:
+
+```
+## [Date] — [Format/Type]
+**Piece:** [one-line description of what was written]
+**Outcome:** [what happened — reply received, they said yes, no response, etc.]
+**What worked:** [the user's observation about why]
+```
+
+When the user asks to "review feedback log", read `~/.claude/feedback-log.md`, identify recurring patterns, and suggest specific edits to `~/.claude/writing-best-practices.md`. Only promote a pattern to best practices if it appears at least twice.
